@@ -19,7 +19,7 @@ Fill the board and click on `Solve`
 - Conditional rendering of board is implemented
 ## Author
 
-[Saurav Kumar](saurav9878@gmail.com) <br>
+[Saurav Kumar](mailto:saurav9878@gmail.com) <br>
 Indian Institute of Space Science and Technology
 
 #### Note
